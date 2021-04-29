@@ -6,3 +6,6 @@ Anyway, I just got this message from opyy:
 
 so heres this lmao
 
+
+# Note to GitHub staff:
+this is not any original code, it is made from a YouTube tutorial series.
